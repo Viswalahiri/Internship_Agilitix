@@ -7,3 +7,13 @@
 2. What makes a request (Endpoints, Paths, Parameters, Methods)
 3. REST vs SOAP
 ---
+## Day 2 : June 1st, 2020
+
+### Learnt about the other topics of REST APIs and interacted with GitHub's REST API with requests (Python)
+1. What makes a request (Headers, Data/Body)
+2. Authentication
+3. HTTP Status Codes
+4. API Versions
+5. Interaction with REST APIs
+6. Interacting with GitHub's REST API to perform specific tasks
+---
