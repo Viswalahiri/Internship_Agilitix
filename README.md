@@ -17,3 +17,18 @@
 5. Interaction with REST APIs
 6. Interacting with GitHub's REST API to perform specific tasks
 ---
+## Day 3 : June 2nd, 2020
+
+### Learnt about Regular Expressions
+1. What is RegEx
+2. How can I run RegEx?
+3. Literal Searches
+4. All characters used for Matching
+5. Examples
+6. Nuances
+7. Sub-Task below
+<p align="middle">
+<img src="https://github.com/Viswalahiri/Internship_Agilitix/blob/master/Photos/Screenshot%20(436).png">
+</p>
+---
+
